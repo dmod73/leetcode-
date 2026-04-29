@@ -22,6 +22,4 @@ El objetivo es tener un repo limpio, facil de revisar y listo para entrega acade
 | 3 | Longest Substring Without Repeating Characters | Medium | `medium/003-longest-substring-without-repeating-characters.py` |
 | 123 | Best Time to Buy and Sell Stock III | Hard | `hard/123-best-time-to-buy-and-sell-stock-iii.py` |
 
-## Nota
 
-Se reemplazo el ejercicio hard anterior (`004`) por el nuevo ejercicio hard (`123`) segun la ultima actualizacion.
